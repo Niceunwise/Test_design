@@ -1,4 +1,6 @@
- I used some test design tecniques. 
+#Test design
+
+I used some test design tecniques. 
 
 Here is [equivalent partitioning and boundary value analysis](https://docs.google.com/spreadsheets/d/15PBWsXxh8ACx8RbsCbP3t9xKmRNERZFrVAXt5-Bfmho/edit#gid=0) based on certain requirements given in the task.
 
